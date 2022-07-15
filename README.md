@@ -5,7 +5,7 @@ https://youtu.be/MnmIoUsJdCw
 
 ### Pictures
 
-<img src="demo1.png">
+<img src="images/demo1.png">
 
 <br>
-<img src="demo2.png">
+<img src="images/demo2.png">
